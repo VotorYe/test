@@ -1,2 +1,2 @@
 FROM centos:6
-ADD ../README ./
+ADD README ./
